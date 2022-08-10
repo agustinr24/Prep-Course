@@ -1,0 +1,4 @@
+* `for`: Es un bucle que repeti un codigo al cual se le asigna una variable y una condición para su ejecución junto a un operador por ejemplo el "++";
+
+* `&&`, `||`, `!`: 
+Son operadores logicos, se utilizan para comparar dos expresiones arrojando true o false, && (Devuelve true si ambas son verdaderas o false si  ambas son falses o una) || (Devolvera true si ambas o una expresion es correcta o false si ambas lo son), !==(Devolvera lo opuesta a la expresion ingresada)
